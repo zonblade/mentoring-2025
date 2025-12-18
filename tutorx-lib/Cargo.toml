@@ -1,0 +1,13 @@
+[package]
+name = "tutorx-lib"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[features]
+default = []
+penambahan_add = []
+penambahan_add2 = []
+penambahan  = ["penambahan_add","penambahan_add2"]
+pengurangan = []

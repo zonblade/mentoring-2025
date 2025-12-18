@@ -1,0 +1,8 @@
+[package]
+name = "tutorx-api"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tutorx-lib = { path = "../tutorx-lib" , version = "*"}
+mini-config = { path = "../tutorx-config/mini-config" , version = "*"}

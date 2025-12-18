@@ -1,0 +1,3 @@
+[submodule "tutorx-config"]
+	path = tutorx-config
+	url = https://github.com/zonblade/mini-config-rs.git
