@@ -1,2 +1,0 @@
-mod products;
-mod users;
